@@ -1,0 +1,42 @@
+@import './component/reset.css';
+@import './component/variables.css';
+
+/* Desert */
+
+@import './Desert/header.css';
+@import './Desert/hero.css';
+@import './Desert/ourstory.css';
+@import './Desert/location.css';
+@import './Desert/groomsmen.css';
+@import './Desert/accommodations.css';
+@import './Desert/itinerary.css';
+@import './Desert/registry.css';
+@import './Desert/rsvp.css';
+@import './Desert/footer.css';
+
+/* Chapel */
+
+@import './Chapel/header.css';
+@import './Chapel/hero.css';
+@import './Chapel/ourstory.css';
+@import './Chapel/time.css';
+@import './Chapel/vanue.css';
+@import './Chapel/groomsmen.css';
+@import './Chapel/itinerary.css';
+@import './Chapel/fqa.css';
+@import './Chapel/rsvp.css';
+@import './Chapel/footer.css';
+
+
+
+/* Vineyard */
+
+@import './Vineyard/header.css';
+@import './Vineyard/hero.css';
+@import './Vineyard/ourstory.css';
+@import './Vineyard/vanue.css';
+@import './Vineyard/groomsmen.css';
+@import './Vineyard/itinerary.css';
+@import './Vineyard/registry.css';
+@import './Vineyard/rsvp.css';
+@import './Vineyard/footer.css';
